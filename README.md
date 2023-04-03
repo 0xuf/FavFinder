@@ -56,3 +56,4 @@ options:
 ## 🔗 Links
 - [My instagram profile](https://www.instagram.com/zeroxuf/)
 - [My discord profile](https://discord.com/users/497419128701976587)
+- [Medium](https://zeroxuf.medium.com/)

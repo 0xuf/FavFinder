@@ -124,6 +124,7 @@ if __name__ == "__main__":
 		console.log("[bold blue]Usage: ")
 		console.log(f"[bold white]$[bold green] echo domain.tld [bold cyan]| [bold green]python {sys.argv[0]}")
 		console.log(f"[bold white]$[bold green] cat domains.txt [bold cyan]| [bold green]python {sys.argv[0]}")
+		sys.exit()
 	
 	
 	# Make instance from FavFinder class
